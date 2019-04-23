@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>525683699978-h31gf86mj2js3o8cjq7ep20egkq7ejhu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.525683699978-h31gf86mj2js3o8cjq7ep20egkq7ejhu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDCvZHHjezrSQOJMtpw-iVY5LiKl85Ql0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>525683699978</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nl.revs.CMSFirebaseReader</string>
+	<key>PROJECT_ID</key>
+	<string>cmsdemoproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cmsdemoproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:525683699978:ios:12d53fee7f59ac30</string>
+	<key>DATABASE_URL</key>
+	<string>https://cmsdemoproject.firebaseio.com</string>
+</dict>
+</plist>
